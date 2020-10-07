@@ -2,9 +2,7 @@
 
 Test push.
 
-| Production | Stage |
-|---|---|
-| [![Build Status](https://docs.ci.corp.adobe.com/job/csuite.en_exl/badge/icon)](https://docs.ci.corp.adobe.com/job/csuite.en_exl/lastBuild) | |
+[![Build Status](https://docs.ci.corp.adobe.com/job/csuite.en_exl/badge/icon)](https://docs.ci.corp.adobe.com/job/csuite.en_exl/lastBuild)
 
 <!--
 |[Output Prod](https://docs.adobe.com/content/help/en/document-cloud-learn/tutorials/overview.html)|[Output Stg](https://docs-stg.corp.adobe.com/content/help/en/document-cloud-learn/tutorials/overview.html)|
