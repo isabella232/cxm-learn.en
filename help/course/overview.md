@@ -1,13 +1,11 @@
 ---
-title: Overview
+title: Adobe Data-Driven Operating Model
 description: This is the article overview.
 ---
 
-# Title
+# Adobe Data-Driven Operating Model
 
-Welcome to the something something user guide.
-
-MORE...
+Welcome to the Adobe Data-Driven Operating Model guide.
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
