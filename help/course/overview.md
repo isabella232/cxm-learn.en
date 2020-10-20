@@ -3,7 +3,7 @@ title: Adobe Data-Driven Operating Model
 description: This is the article overview.
 ---
 
-# Adobe Data-Driven Operating Model
+# Adobe's Data-Driven Operating Model (DDOM)
 
 Welcome to the Adobe Data-Driven Operating Model guide.
 
