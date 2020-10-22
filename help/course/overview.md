@@ -1,11 +1,11 @@
 ---
-title: Adobe Data-Driven Operating Model
+title: Adobe's Data-Driven Operating Model
 description: This is the article overview.
 ---
 
 # Adobe's Data-Driven Operating Model (DDOM)
 
-Welcome to the Adobe Data-Driven Operating Model guide.
+Welcome to an overview of Adobe's Data-Driven Operating Model (DDOM). In this course, you will learn from Adobe's Digital Strategy Group about Adobe's digital transformation story, the three core pillars of DDOM and sample insights uncovered by DDOM.  
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
