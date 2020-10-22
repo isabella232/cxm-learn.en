@@ -1,10 +1,10 @@
 ---
-title: Adobe Transformation Story
-description: Watch an overview video of Adobe's digital transformation story.
+title: Adobe's Transformation Story
+description: Learn more about the role DDOM played in Adobe's digital transformation.
 ---
 
-# Adobe Transformation Story
+# Adobe's Transformation Story
 
-Watch an overview of Adobe's digital transformation story.
+WLearn more about the role DDOM played in Adobe's digital transformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41691)
