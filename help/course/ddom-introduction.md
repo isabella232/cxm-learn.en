@@ -1,10 +1,10 @@
 ---
 title: Introduction to Data-Driven Operating Model (DDOM)
-description: Watch a video that introduces Data-Driven Operating Model (DDOM).
+description: In this video, get a quick introduction to Adobe's Data-Driven Operating Model (DDOM). 
 ---
 
 # Introduction to Data-Driven Operating Model (DDOM)
 
-Watch a video that introduces Data-Driven Operating Model (DDOM).
+In this video, get a quick introduction to Adobe's Data-Driven Operating Model (DDOM). 
 
 >[!VIDEO](https://video.tv.adobe.com/v/41690)
