@@ -9,6 +9,6 @@ solution: Experience Cloud
 
 + [Overview](overview.md)
 + [Introduction to DDOM](ddom-introduction.md)
-+ [Adobe Transformation Story](transformation-story.md)
-+ [Three Pillars of DDOM](ddom-components.md)
-
++ [Adobe's Digital Transformation Story](transformation-story.md)
++ [DDOM's Three Core Pillars](ddom-components.md)
++ [Insights Uncovered by DDOM](ddom-insights.md)
