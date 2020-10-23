@@ -10,6 +10,6 @@ type: Tutorials
 
 + [Overview](overview.md)
 + [Introduction to DDOM](ddom-introduction.md)
-+ [Adobe's Digital Transformation Story](transformation-story.md)
++ [Adobe Digital Transformation Story](transformation-story.md)
 + [DDOM's Three Core Pillars](ddom-components.md)
 + [Insights Uncovered by DDOM](ddom-insights.md)
