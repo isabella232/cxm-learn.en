@@ -5,6 +5,6 @@ description: Learn more about the role DDOM played in Adobe's digital transforma
 
 # Adobe's Transformation Story
 
-WLearn more about the role DDOM played in Adobe's digital transformation.
+Learn more about the role DDOM played in Adobe's digital transformation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41691)
