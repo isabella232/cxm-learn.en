@@ -1,8 +1,8 @@
 ---
 cloud: experience-cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/csuite.en
-index: no
+git-repo: https://github.com/AdobeDocs/csuite.en
+index: yes
 ---
 
 # Metadata for internal use
