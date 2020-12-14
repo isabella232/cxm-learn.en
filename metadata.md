@@ -1,7 +1,7 @@
 ---
 cloud: experience-cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/cxm.en
+git-repo: https://github.com/AdobeDocs/cxm-learn.en
 index: yes
 ---
 
