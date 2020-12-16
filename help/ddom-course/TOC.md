@@ -6,7 +6,7 @@ solution: Experience Cloud
 type: Tutorial
 ---
 
-# Adobe Data-Driven Operating Model Guide {#using}
+# Adobe Data-Driven Operating Model Guide {#ddom}
 
 + [Overview](overview.md)
 + [Introduction to DDOM](ddom-introduction.md)
