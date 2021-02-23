@@ -6,7 +6,7 @@ keywords: DDOM, digital transformation
 
 # Adobe Data-Driven Operating Model (DDOM)
 
-Welcome to an overview of the [!UICONTROL Adobe Data-Driven Operating Model] (DDOM). In this course, you will learn from the [!DNL Adobe Digital Strategy Group] about the Adobe digital transformation story, the three core pillars of DDOM, and sample insights uncovered by DDOM.
+Welcome to an overview of the Adobe Data-Driven Operating Model (DDOM). In this course, you will learn from the [!DNL Adobe Digital Strategy Group] about the Adobe digital transformation story, the three core pillars of DDOM, and sample insights uncovered by DDOM.
 
 * [Introduction to DDOM](ddom-introduction.md)
 * [Adobe Digital Transformation Story](transformation-story.md)
