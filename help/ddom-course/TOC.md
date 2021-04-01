@@ -4,6 +4,7 @@ breadcrumb-title: Data-Driven Operating Model Guide
 user-guide-description: Watch these videos to learn how to use Adobe Data-Driven Operating Model.
 solution: Experience Cloud
 type: Tutorial
+hide: yes
 ---
 
 # Adobe Data-Driven Operating Model Guide {#ddom}

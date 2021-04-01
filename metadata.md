@@ -2,7 +2,8 @@
 cloud: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/cxm-learn.en
-index: yes
+index: no
+hide: yes
 ---
 
 # Metadata for internal use
