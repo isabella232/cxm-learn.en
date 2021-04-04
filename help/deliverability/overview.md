@@ -2,8 +2,8 @@
 title: Deliverability
 description: This is the article overview.
 keywords: DDOM, deliverability
+exl-id: 42d0b3bd-178c-40c7-bcb0-b924310eccf2
 ---
-
 # Deliverability overview
 
 Welcome.
